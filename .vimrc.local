@@ -1,0 +1,5 @@
+map <C-l> :CommandT<CR>
+imap <C-l> <ESC>:CommandT<CR>
+nmap <C-s> :w<CR>
+imap <C-s> <ESC>:w<CR>
+nmap <C-W>c <Plug>Kwbd
