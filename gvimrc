@@ -66,10 +66,10 @@ endif
 set visualbell
 
 " Start without the toolbar
-set guioptions-=T
+" set guioptions-=T
 
 " Default gui color scheme
-color ir_black
+color mustang
 
 " ConqueTerm wrapper
 function StartTerm()
@@ -227,8 +227,10 @@ if exists("loaded_nerd_tree")
   call s:DefineCommand("e", "Edit")
   call s:DefineCommand("mkdir", "Mkdir")
 endif
-
 " Include user's local vim config
 if filereadable(expand("~/.gvimrc.local"))
   source ~/.gvimrc.local
 endif
+
+
+
