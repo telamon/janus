@@ -1,3 +1,10 @@
+# WARNING: This is my personal settings branch!!
+If you're reading this, you're either me, or someone who wants to be
+like me or simply someone who've strayed from the original vim-janus
+project.
+Figure it out.
+
+
 # Janus: Carlhuda's vim Distribution
 
 This is a basic distribution of vim plugins and tools intended to be run
