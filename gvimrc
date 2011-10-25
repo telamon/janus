@@ -227,7 +227,6 @@ if exists("loaded_nerd_tree")
   call s:DefineCommand("e", "Edit")
   call s:DefineCommand("mkdir", "Mkdir")
 endif
-set guifont=Monospace\ 11
 " Include user's local vim config
 if filereadable(expand("~/.gvimrc.local"))
   source ~/.gvimrc.local
