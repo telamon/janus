@@ -4,6 +4,21 @@ like me or simply someone who've strayed from the original vim-janus
 project.
 Figure it out.
 
+My vim features:
+_global:_
+
+* Command-T rebind Ctrl-L_(ist)_
+* Ctrl-s Save behaviour
+* Ctrl-w+c KWBD plugin, (Kill Window Delete Buffer, without qutting)
+
+_gvim only:_
+
+* default font: Ubuntu Mono (12pt)
+* disable toolbar
+* Ctrl-v Clipboard paste
+* Ctrl-c Clipbard copy 
+* default window size 30x123
+
 
 # Janus: Carlhuda's vim Distribution
 
