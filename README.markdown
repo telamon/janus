@@ -1,3 +1,8 @@
+# Update
+I'm nolonger using this repository; I've moved my personal
+vim configurations/meddlings to: 
+https://github.com:telamon/titanus (It's vimius really)
+
 # WARNING: This is my personal settings branch!!
 If you're reading this, you're either me, or someone who wants to be
 like me or simply someone who've strayed from the original vim-janus
